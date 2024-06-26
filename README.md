@@ -1,1 +1,2 @@
-# RespiratoryHealth_Coal
+# Respiratory health and coal emissions
+This project aims to analyze the trends in respiratory death rates from 1950 to 2022 and investigate their correlation with coal emissions per capita across different continents. Respiratory diseases remain a significant global health challenge, with death rates showing a concerning increase over the decades. Simultaneously, coal emissions, a major source of air pollution, have varied significantly across regions and time periods. By examining the relationship between respiratory death rates and coal emissions, we seek to uncover patterns and insights that can inform public health policies and environmental regulations. 
