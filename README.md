@@ -7,9 +7,10 @@ This project aims to analyze the trends in respiratory death rates from 1950 to 
 Given the detrimental effects of dirty coal emissions, is there a strong link between coal emissions per capita and respiratory death rates?
 
 # Data sets
-* World Health Organization. (2024). WHO Mortality Database.  Retrieved from [https://platform.who.int/mortality/themes/theme-details/topics/topic-details/MDB/respiratory-diseases]
+* World Health Organization. (2024). WHO Mortality Database.  Retrieved from [here](https://platform.who.int/mortality/themes/theme-details/topics/topic-details/MDB/respiratory-diseases). 
+  
 * Coal emissions data source
-“Data Page: Per capita CO₂ emissions from coal”, part of the following publication: Hannah Ritchie, Pablo Rosado and Max Roser (2023) - “CO₂ and Greenhouse Gas Emissions”. Data adapted from Global Carbon Project, Various sources. Retrieved from https://ourworldindata.org/grapher/per-capita-co2-coal
+“Data Page: Per capita CO₂ emissions from coal”, part of the following publication: Hannah Ritchie, Pablo Rosado and Max Roser (2023) - “CO₂ and Greenhouse Gas Emissions”. Data adapted from Global Carbon Project, Various sources. Retrieved from [here](https://ourworldindata.org/grapher/per-capita-co2-coal).
 
 # Tools
 Python libraries were used.
